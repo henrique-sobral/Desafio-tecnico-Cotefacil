@@ -14,16 +14,19 @@ Este é um projeto simples em **React** que mostra um contador que pode ser aume
 ---
 
 ##  Como executar o projeto
-
-### 1. Instale as dependências
+### 1. Clone o projeto no git
+```bash
+git clone https://github.com/henrique-sobral/Desafio-tecnico-Cotefacil.git
+```
+### 2. Instale as dependências
 ```bash
 npm install
 ```
-### 2. Inicie o servidor de desenvolvimento
+### 3. Inicie o servidor de desenvolvimento
 ```bash
 npm run dev
 ```
-### 3. Acesse o navegador
+### 4. Acesse o navegador
 ```bash
 http://localhost:5173
 ```
