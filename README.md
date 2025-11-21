@@ -1,3 +1,6 @@
+<img width="720" height="579" alt="projeto" src="https://github.com/user-attachments/assets/58de13bf-e1eb-49f8-80d1-b0abaed66f17" />
+
+
 # Contador React – Cotefácil
 
 Este é um projeto simples em **React** que mostra um contador que pode ser aumentado manualmente ou automaticamente por meio de um cronômetro.
